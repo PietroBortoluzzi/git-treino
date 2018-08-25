@@ -12,3 +12,8 @@ Rua Barão de Sobral 742
 -----
 Joanna Sapatao
 Rua 44
+
+--
+Git merge
+Como migrar as mudanças de um branch para outro 
+pesquisar no google e realizar mudanças. 
